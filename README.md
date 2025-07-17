@@ -6,6 +6,7 @@ For my Spring Semester of 2024, I decided to recreate the classic staples Easy B
 Stay tuned!!!
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f3d728f6-564b-49bc-8fa8-6be3b333f5e1" />
+
 My first GUI application for school
 
 
